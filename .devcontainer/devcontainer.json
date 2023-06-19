@@ -1,0 +1,19 @@
+{
+	"name": "kaggle-identifying-age-related-conditions",
+	"dockerComposeFile": "../compose.yaml",
+	"service": "kaggle-identifying-age-related-conditions",
+	"workspaceFolder": "/workspace",
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"ms-toolsai.jupyter",
+				"donjayamanne.githistory",
+				"eamodio.gitlens",
+				"ryuta46.multi-command"
+			]
+		}
+	}
+}
